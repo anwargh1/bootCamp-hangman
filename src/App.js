@@ -14,8 +14,8 @@ export class App extends Component {
       score: 100,
       letterStatus: this.generateLetterStatuses(),
       solution: {
-        word: "THANKYOU",
-        hint: "Anwar currently telling you : 2 words",
+        word: "ELEPHENT",
+        hint: "Animal : he has a long nose",
       },
     };
   }
@@ -65,8 +65,8 @@ export class App extends Component {
       score: 100,
       letterStatus: this.generateLetterStatuses(),
       solution: {
-        word: "INEEDSLEEP",
-        hint: "And Anwar currently telling you : 3 Words => the first is letter",
+        word: "MIRROR",
+        hint: "something you see yourself on",
       },
     });
   };
